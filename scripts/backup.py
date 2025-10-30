@@ -24,7 +24,7 @@ try:
     shutil.copytree(source, backup_folder)
     message = f"[{date}] Sauvegarde réussie : {backup_folder}"
     print(message)
-    print("(Simulation) Email envoyé à thomas.saint-pol@epfedu.fr")
+    print("(Simulation) Email envoyé à test@gmail.com")
 except Exception as e:
     message = f"[{date}] Erreur : {str(e)}"
     print(message)
