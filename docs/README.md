@@ -1,4 +1,4 @@
-# Projet DevOps - Automatisation Linux
+# Projet DevOps 30/10/25
 
 ## Objectif
 Automatiser des tâches courantes d’administration :
@@ -10,5 +10,5 @@ Automatiser des tâches courantes d’administration :
 
 projet_devops/
 ├── scripts/
-├── logs/
-└── docs/
+├── logs/ 
+└── docs/ 
